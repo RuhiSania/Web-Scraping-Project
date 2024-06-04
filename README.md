@@ -12,14 +12,17 @@ Insights:
   Identified salary trends and high-paying job titles.
   Analyzed geographical and company-specific salary variations.
   Assessed industry demand for Business Analysts.
+  
 Challenges : 
   Faced 403 errors on other job portals; successfully used JobsDB.
   Predictive Modeling Considerations
   Limited data for robust predictive modeling.
   Imputed missing values may bias results.
+  
 Conclusion : Despite challenges, the project provided key insights into Business Analyst salaries in Hong Kong. Further data collection and predictive modeling can enhance findings.
 
 How to Run the Project-
+
 Install Libraries:
   bash
   Copy code
@@ -30,8 +33,10 @@ Run Scripts:
   data_cleaning_analysis.py: Clean and analyze data.
   visualization.py: Generate visualizations.
   predictive_modeling.py: Predict salaries.
+  
 Dataset:
   final.csv: Collected and cleaned data.
+  
 Notes:
   Ensure permission for web scraping.
   Handle data integrity carefully.
